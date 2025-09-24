@@ -106,9 +106,9 @@ graph TD
     
 ```
 3. ### Fluxo
-    Determina o Caminho percorrido pelo ator para executar uma ação
+    Determina o Caminho percorrido pelo aTor para executar uma ação
 
-    - Ação de login
+    - Ação de Login
 
 ```mermaid
 
